@@ -14,5 +14,5 @@ android {
         versionName "1.0"
     }
 }
--permissions:
-+
+ permissions:
+ 
